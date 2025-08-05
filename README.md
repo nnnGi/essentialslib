@@ -1,7 +1,5 @@
 # Essentials Library (EssentialsLib)
 
-## [👉 Get Shortcut without Login](/%64ownload/55278/)
-
 With an Integrated Updater, Dictionary and List Utilities, Global Variables, vCard Generation and more, the Essentials Collection will bring your shortcut development to the next level!
 
 Essentials Library is meticulously crafted to empower your shortcuts with an expedited method for implementing essential functionalities and facilitating seamless integration.
